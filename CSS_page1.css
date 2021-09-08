@@ -1,0 +1,29 @@
+.carousel_image {
+  width: 100vw;
+  height: 80vh;
+}
+.carousel {
+  margin-top: 0px;
+}
+.navbar {
+  margin-bottom: -25px;
+}
+.body {
+  background-color: #e6e6e6;
+  overflow-x: hidden;
+}
+.container {
+  margin: 20px!important;
+  padding: 0px;
+}
+.jumbotron {
+  border-radius: 20px;
+  width: 94vw;
+  background-color: #ffffff!important;
+  color: black;
+  text-align: center;
+}
+#voorpagina_img {
+  width: 100vw;
+  overflow-x: hidden;
+}
